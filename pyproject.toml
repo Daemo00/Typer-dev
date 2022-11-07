@@ -1,0 +1,9 @@
+[project]
+name = "Typer-dev"
+version = '0.0'
+authors = [
+    {name = "Simone Rubino", email = "daemo00@gmail.com"},
+]
+
+[project.scripts]
+typer-dev = "typer_dev:app"
