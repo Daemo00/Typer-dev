@@ -4,7 +4,7 @@ commonmark==0.9.1
 pip==22.3.1
 Pygments==2.13.0
 rich==12.6.0
-setuptools==65.5.1
+setuptools==65.6.3
 shellingham==1.5.0
 typer==0.7.0
-wheel==0.38.2
+wheel==0.38.4
